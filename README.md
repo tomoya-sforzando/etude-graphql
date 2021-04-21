@@ -11,7 +11,7 @@
 |Screenshot 1|Screenshot 2|
 
 <!-- Synopsis -->
-GitHub Template Repository for General Use.
+etude for [GraphQL](https://graphql.org/)
 
 <!-- TOC -->
 - [Prerequisites](#prerequisites)
@@ -30,11 +30,8 @@ GitHub Template Repository for General Use.
 
 ## Prerequisites
 
-- A (Version x.y.z or higher)
-  - B
-  - C
-- D
-  - E
+- Python (Version 3.8.8 or higher)
+  - [graphql-python/gql: A GraphQL client in Python](https://github.com/graphql-python/gql)
 
 ## How to
 
@@ -113,4 +110,4 @@ See [LICENSE](LICENSE).
 
 ### Contributors
 
-- [Shin'ichiro Suzuki](https://github.com/shin-sforzando)
+- [Tomoya Kashimada](https://github.com/tomoya-sforzando)
